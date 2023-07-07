@@ -10,6 +10,8 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+
+then on your browser, open the url: http://localhost:3030
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
