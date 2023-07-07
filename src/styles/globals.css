@@ -1,0 +1,15 @@
+@import "react-toastify/dist/ReactToastify.css";
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-blue {
+    @apply text-white bg-[#476FB5] hover:bg-[#3b99cf] border border-none transition-all ease-in duration-200 focus:outline-none disabled:opacity-75 font-medium rounded text-sm px-4 py-3;
+  }
+  .btn-purple {
+    @apply bg-[#6721D9] text-white border border-[#6721D9] focus:outline-none font-medium disabled:opacity-75 rounded-md text-sm px-4 py-3 cursor-pointer transition-all ease-in duration-200;
+  }
+}

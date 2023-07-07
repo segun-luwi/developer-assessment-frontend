@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Recia';
+    src: url('./fonts/recia/Recia-MediumItalic.eot');
+    src: local('☞Recia Medium Italic'), local('./fonts/recia/Recia-MediumItalic'),
+        url('./fonts/recia/Recia-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-MediumItalic.woff2') format('woff2'),
+        url('./fonts/recia/Recia-MediumItalic.woff') format('woff'),
+        url('./fonts/recia/Recia-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Recia';
+    src: url('./fonts/recia/Recia-Light.eot');
+    src: local('☞Recia Light'), local('./fonts/recia/Recia-Light'),
+        url('./fonts/recia/Recia-Light.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-Light.woff2') format('woff2'),
+        url('./fonts/recia/Recia-Light.woff') format('woff'),
+        url('./fonts/recia/Recia-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recia';
+    src: url('./fonts/recia/Recia-Medium.eot');
+    src: local('☞Recia Medium'), local('./fonts/recia/Recia-Medium'),
+        url('./fonts/recia/Recia-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-Medium.woff2') format('woff2'),
+        url('./fonts/recia/Recia-Medium.woff') format('woff'),
+        url('./fonts/recia/Recia-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recia';
+    src: url('./fonts/recia/Recia-SemiboldItalic.eot');
+    src: local('☞Recia Semibold Italic'), local('./fonts/recia/Recia-SemiboldItalic'),
+        url('./fonts/recia/Recia-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-SemiboldItalic.woff2') format('woff2'),
+        url('./fonts/recia/Recia-SemiboldItalic.woff') format('woff'),
+        url('./fonts/recia/Recia-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Recia';
+    src: url('./fonts/recia/Recia-Regular.eot');
+    src: local('☞Recia'), local('./fonts/recia/Recia-Regular'),
+        url('./fonts/recia/Recia-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-Regular.woff2') format('woff2'),
+        url('./fonts/recia/Recia-Regular.woff') format('woff'),
+        url('./fonts/recia/Recia-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recia';
+    src: url('./fonts/recia/Recia-LightItalic.eot');
+    src: local('☞Recia Light Italic'), local('./fonts/recia/Recia-LightItalic'),
+        url('./fonts/recia/Recia-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-LightItalic.woff2') format('woff2'),
+        url('./fonts/recia/Recia-LightItalic.woff') format('woff'),
+        url('./fonts/recia/Recia-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Recia';
+    src: url('./fonts/recia/Recia-Bold.eot');
+    src: local('☞Recia Bold'), local('./fonts/recia/Recia-Bold'),
+        url('./fonts/recia/Recia-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-Bold.woff2') format('woff2'),
+        url('./fonts/recia/Recia-Bold.woff') format('woff'),
+        url('./fonts/recia/Recia-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recia-RegularItalic';
+    src: url('./fonts/recia/Recia-RegularItalic.eot');
+    src: local('☞Recia Regular Italic'), local('./fonts/recia/Recia-RegularItalic'),
+        url('./fonts/recia/Recia-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-RegularItalic.woff2') format('woff2'),
+        url('./fonts/recia/Recia-RegularItalic.woff') format('woff'),
+        url('./fonts/recia/Recia-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Recia';
+    src: url('./fonts/recia/Recia-BoldItalic.eot');
+    src: local('☞Recia Bold Italic'), local('./fonts/recia/Recia-BoldItalic'),
+        url('./fonts/recia/Recia-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-BoldItalic.woff2') format('woff2'),
+        url('./fonts/recia/Recia-BoldItalic.woff') format('woff'),
+        url('./fonts/recia/Recia-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Recia';
+    src: url('./fonts/recia/Recia-Semibold.eot');
+    src: local('☞Recia Semibold'), local('./fonts/recia/Recia-Semibold'),
+        url('./fonts/recia/Recia-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/recia/Recia-Semibold.woff2') format('woff2'),
+        url('./fonts/recia/Recia-Semibold.woff') format('woff'),
+        url('./fonts/recia/Recia-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
